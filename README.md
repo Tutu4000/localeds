@@ -1,9 +1,6 @@
-# Your Project's Title...
-Your project's description...
-
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--localeds--tutu4000.aem.page/
+- Live: https://main--localeds--tutu4000.aem.live/
 
 ## Documentation
 
